@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="img">Image</string>
+    <string name="placeholder_number">0.00</string>
+    <string name="button_lock">Lock</string>
+    <string name="button_unlock">Unlock</string>
+</resources>
